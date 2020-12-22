@@ -15,14 +15,14 @@ Managing user authentication flows with **React Native**
 
    demonstration
 
-![Formik demo](./assets/demo_formik.gif)
+![Formik demo](./assets/demo_formik.gif =250x)
 
 
 ## App review
 
    demonstration
 
-![App demo](./assets/demo_app.gif)
+![App demo](./assets/demo_app.gif =100x)
 
 ## Useful links
 REST API with Express.js
