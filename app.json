@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Member Auth",
+    "slug": "member-auth",
+    "sdkVersion": "40.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/rmtuto.png",
+    "splash": {
+      "image": "./assets/splash_screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#D4AF37"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "package": "com.RM.memberAuth",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/rmtuto.png",
+        "backgroundColor": "#D4AF37"
+      }
+    },
+    "web": {
+      "favicon": "./assets/rmtuto.png"
+    }
+  }
+}
