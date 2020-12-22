@@ -15,8 +15,7 @@ Managing user authentication flows with **React Native**
 
    demonstration
 
-<!-- ![Formik demo](./assets/demo_formik.gif =250x) -->
-<img src="./assets/demo_formik.gif" alt="Formik demo" width="100px" >
+<img src="./assets/demo_formik.gif" alt="Formik demo" width="250px" >
 
 
 
@@ -24,7 +23,7 @@ Managing user authentication flows with **React Native**
 
    demonstration
 
-![App demo](./assets/demo_app.gif =100x)
+<img src="./assets/demo_app.gif" alt="App demo" width="250px" >
 
 ## Useful links
 REST API with Express.js
