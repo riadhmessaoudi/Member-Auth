@@ -15,7 +15,9 @@ Managing user authentication flows with **React Native**
 
    demonstration
 
-![Formik demo](./assets/demo_formik.gif =250x)
+<!-- ![Formik demo](./assets/demo_formik.gif =250x) -->
+<img src="./assets/demo_formik.gif" alt="Formik demo" width="100px" >
+
 
 
 ## App review
