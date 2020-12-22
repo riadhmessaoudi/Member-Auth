@@ -189,7 +189,7 @@ export default function SignUpScreen({ navigation }) {
 
                   <View style={styles.buttonContainer} >
                     <Button
-                      style={styles.button}
+                      style={(props.dirty && props.isValid) ? styles.button : styles.buttonDisabled}
                       full
                       onPress={props.handleSubmit}
                       disabled={!(props.dirty && props.isValid)}
@@ -255,6 +255,9 @@ const styles = StyleSheet.create({
   },
   button: {
     backgroundColor: "#5a189a"
+  },
+  buttonDisabled: {
+    backgroundColor: "grey"
   },
   buttonText: {
     color: "#fff",
